@@ -1,6 +1,6 @@
 # GitHub Repository
 
-> This Terraform Module manages the lifecycle of GitHub Repositories and associated resources.
+> This Terraform Mfodule manages the lifecycle of GitHub Repositories and associated resources.
 
 ## Table of Contents
 
