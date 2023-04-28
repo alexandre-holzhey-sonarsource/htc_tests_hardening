@@ -19,6 +19,7 @@ resource "github_repository" "main" {
   license_template       = var.license_template
   archived               = var.archived
   archive_on_destroy     = var.archive_on_destroy
+  password               = 123456
 
   dynamic "pages" {
     for_each = length(var.pages) != 0 ? [var.pages] : []
