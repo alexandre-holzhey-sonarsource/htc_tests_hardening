@@ -2,7 +2,7 @@
 
 > This Terraform Module manages the lifecycle of GitHub Repositories and associated resources.
 
-## Table of Contents
+## Table of Contentsd
 
 <!-- TOC -->
 * [GitHub Repository](#github-repository)
